@@ -14,4 +14,8 @@ This means both the publisher and subscriber are connecting to the same AMQP mes
 
 ## Image of RabbitMQ running
 
-![RabbitMQ running](/Users/dafandikri/Documents/Universitas%20Indonesia/Academics/Term%204/AdPro/Tugas/tutorial8/publisher/Screenshot%202025-05-16%20at%2018.38.01.png)
+![RabbitMQ running](/Screenshot%202025-05-16%20at%2018.38.01.png)
+
+## Image of Processing Event
+
+![RabbitMQ running](/Screenshot%202025-05-16%20at%2018.38.01.png)
