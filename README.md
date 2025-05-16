@@ -11,3 +11,7 @@ In one run, the publisher sends 5 messages to the message broker. Each message i
 ### b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 
 This means both the publisher and subscriber are connecting to the same AMQP message broker instance, using the same credentials (username: guest, password: guest) and the same host (localhost) and port (5672). This allows them to communicate through the same broker, enabling message delivery from publisher to subscriber.
+
+## Image of RabbitMQ running
+
+![RabbitMQ running](/Users/dafandikri/Documents/Universitas%20Indonesia/Academics/Term%204/AdPro/Tugas/tutorial8/publisher/Screenshot%202025-05-16%20at%2018.38.01.png)
